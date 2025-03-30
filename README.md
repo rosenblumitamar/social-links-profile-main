@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-yV8JzNdyZg](https://www.frontendmentor.io/solutions/social-links-profile-yV8JzNdyZg)
+- Live Site URL: [https://main-social-links-profile-project.netlify.app/](https://main-social-links-profile-project.netlify.app/)
 
 ## My process
 
